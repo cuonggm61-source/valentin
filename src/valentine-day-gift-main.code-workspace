@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "w3_band",
+		"jdk.runConfig.vmOptions": "--enable-preview --source 23",
+		"java.project.sourcePaths": [
+			""
+		],
+		"java.debug.settings.onBuildFailureProceed": true
+	}
+}
